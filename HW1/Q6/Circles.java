@@ -3,9 +3,6 @@ import java.util.Scanner;
 import javafx.scene.shape.Circle;
 
 public class Circles {
-	static double centerX;
-	static double centerY;
-	static double radius;
 	static Circle circle1 = new Circle();
 	static Circle circle2 = new Circle();
 	public static void main (String[] args) {
