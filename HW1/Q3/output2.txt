@@ -1,0 +1,24 @@
+Microsoft Windows [Version 6.1.7601]
+Copyright (c) 2009 Microsoft Corporation.  All rights reserved.
+
+C:\Users\Noise>cd Desktop
+
+C:\Users\Noise\Desktop>cd HM1
+
+C:\Users\Noise\Desktop\HM1>CD Q3
+
+C:\Users\Noise\Desktop\HM1\Q3>javac RdmNmbrs.java
+
+C:\Users\Noise\Desktop\HM1\Q3>java RdmNmbrs
+The month is 4 - APRIL
+
+C:\Users\Noise\Desktop\HM1\Q3>java RdmNmbrs
+The month is 4 - APRIL
+
+C:\Users\Noise\Desktop\HM1\Q3>java RdmNmbrs
+The month is 2 - FEBRUARY
+
+C:\Users\Noise\Desktop\HM1\Q3>java RdmNmbrs
+The month is 11 - NOVEMBER
+
+C:\Users\Noise\Desktop\HM1\Q3>
