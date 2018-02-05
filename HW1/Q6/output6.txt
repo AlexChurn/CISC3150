@@ -1,0 +1,52 @@
+Microsoft Windows [Version 6.1.7601]
+Copyright (c) 2009 Microsoft Corporation.  All rights reserved.
+
+C:\Users\Noise>cd Desktop
+
+C:\Users\Noise\Desktop>cd HM1
+
+C:\Users\Noise\Desktop\HM1>cd Q6
+
+C:\Users\Noise\Desktop\HM1\Q6>javac Circles.java
+
+C:\Users\Noise\Desktop\HM1\Q6>java Circles
+Enter coordinates and radius:
+2
+3
+1
+3
+3
+2
+The first circle is within the second cicrcle.
+
+C:\Users\Noise\Desktop\HM1\Q6>java Circles
+Enter coordinates and radius:
+3
+3
+2
+3
+6
+2
+The circles overlap with each other.
+
+C:\Users\Noise\Desktop\HM1\Q6>java Circles
+Enter coordinates and radius:
+3
+3
+2
+8
+7
+2
+The circles do not touch each other.
+
+C:\Users\Noise\Desktop\HM1\Q6>java Circles
+Enter coordinates and radius:
+2
+2
+1
+4
+2
+1
+The circles touch each other.
+
+C:\Users\Noise\Desktop\HM1\Q6>
