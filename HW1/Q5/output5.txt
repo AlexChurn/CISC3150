@@ -1,0 +1,51 @@
+Microsoft Windows [Version 6.1.7601]
+Copyright (c) 2009 Microsoft Corporation.  All rights reserved.
+
+C:\Users\Noise>cd Desktop
+
+C:\Users\Noise\Desktop>cd HM1
+
+C:\Users\Noise\Desktop\HM1>cd Q5
+
+C:\Users\Noise\Desktop\HM1\Q5>javac Triangle.java
+
+C:\Users\Noise\Desktop\HM1\Q5>java Triangle
+Enter coordinates:
+1
+5
+Enter coordinates:
+2
+3
+Enter coordinates:
+6
+0
+The side are:  2.24 , 5.0 , 7.07
+The triangle is right.
+
+C:\Users\Noise\Desktop\HM1\Q5>java Triangle
+Enter coordinates:
+-4
+0
+Enter coordinates:
+.8
+.1
+Enter coordinates:
+5
+0
+The side are:  4.8 , 4.2 , 9.0
+The triangle is not right.
+
+C:\Users\Noise\Desktop\HM1\Q5>java Triangle
+Enter coordinates:
+1.9
+.9
+Enter coordinates:
+1.7
+3.5
+Enter coordinates:
+5.3
+3.9
+The side are:  2.61 , 3.62 , 4.53
+The triangle is right.
+
+C:\Users\Noise\Desktop\HM1\Q5>
