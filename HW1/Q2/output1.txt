@@ -1,0 +1,27 @@
+Microsoft Windows [Version 6.1.7601]
+Copyright (c) 2009 Microsoft Corporation.  All rights reserved.
+
+C:\Users\Noise>cd Desktop
+
+C:\Users\Noise\Desktop>cd HM1
+
+C:\Users\Noise\Desktop\HM1>CD Q2
+
+C:\Users\Noise\Desktop\HM1\Q2>javac Radius.java
+
+C:\Users\Noise\Desktop\HM1\Q2>java Radius
+Enter a radius:
+25
+The radius is: 25.0
+The area is: 1963.4954084936207
+15.3
+Enter a radius:
+The radius is: 15.3
+The area is: 735.4154242788347
+4.5
+Enter a radius:
+The radius is: 4.5
+The area is: 63.61725123519331
+^Z
+
+C:\Users\Noise\Desktop\HM1\Q2>
