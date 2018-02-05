@@ -21,6 +21,10 @@ public class Circles {
 		input.close();
 	}
 	
+	
+	// The function uses x,y coordinates and radiuses of 2 circles, calculates distances and determines 
+	// if the circles overlap, touch, don't touch, or one within another.
+	
 	public static void CalcDistance () {	
 		if (Math.sqrt(Math.pow(circle1.getCenterX()-circle2.getCenterX(),2)+ 
 				Math.pow(circle1.getCenterY()-circle2.getCenterY(),2))+ circle1.getRadius() <= Math.pow(circle2.getRadius(), 2)
