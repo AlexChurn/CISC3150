@@ -1,0 +1,47 @@
+//Question 6
+
+To read a character from the console, use the nextLine() method to read a string and then
+invoke the charAt(0) method on the string to return a character.(Y.Daniel Intr. to Java, p.44)
+
+Example:
+
+import java.util.Scanner;
+
+public class indChar{
+	public static void main(String[] args){
+
+	Scanner input = new Scanner(System.in);
+	
+	System.out.print("Enter a character: ");
+	
+	String s = input.nextLine();
+	for(int i = 0; i < 5; i++){
+		char ch = s.charAt(i);
+		System.out.println("The character entered is " + ch);
+		}
+	}
+}
+
+Output:
+Microsoft Windows [Version 6.1.7601]
+Copyright (c) 2009 Microsoft Corporation.  All rights reserved.
+
+C:\Users\Noise>cd Desktop
+
+C:\Users\Noise\Desktop>javac indChar.java
+
+C:\Users\Noise\Desktop>java indChar
+Enter a character: group
+The character entered is g
+
+C:\Users\Noise\Desktop>javac indChar.java
+
+C:\Users\Noise\Desktop>java indChar
+Enter a character: group
+The character entered is g
+The character entered is r
+The character entered is o
+The character entered is u
+The character entered is p
+
+C:\Users\Noise\Desktop>
