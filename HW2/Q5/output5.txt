@@ -1,0 +1,14 @@
+Microsoft Windows [Version 6.1.7601]
+Copyright (c) 2009 Microsoft Corporation.  All rights reserved.
+
+C:\Users\Noise>cd Desktop
+
+C:\Users\Noise\Desktop>java Tokenize
+The delimiter is [,
+]
+Enter values:
+6 6 6 6, 7,7 ,7 8 8 8 8 9 9 9
+6 6 6 6
+ 7
+7
+7 8 8 8 8 9 9 9
