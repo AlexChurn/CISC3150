@@ -1,0 +1,31 @@
+Microsoft Windows [Version 6.1.7601]
+Copyright (c) 2009 Microsoft Corporation.  All rights reserved.
+
+C:\Users\Noise>cd Desktop
+
+C:\Users\Noise\Desktop>cd CISC3150HW1
+
+C:\Users\Noise\Desktop\CISC3150HW1>cd HW2
+
+C:\Users\Noise\Desktop\CISC3150HW1\HW2>java Palindrome
+Enter a word:
+madam
+madam
+madam
+The word is palindrome.
+
+C:\Users\Noise\Desktop\CISC3150HW1\HW2>java Palindrome
+Enter a word:
+eye
+eye
+eye
+The word is palindrome.
+
+C:\Users\Noise\Desktop\CISC3150HW1\HW2>java Palindrome
+Enter a word:
+google
+google
+elgoog
+The word is not a palindrome.
+
+C:\Users\Noise\Desktop\CISC3150HW1\HW2>
