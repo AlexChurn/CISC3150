@@ -1,0 +1,19 @@
+Microsoft Windows [Version 6.1.7601]
+Copyright (c) 2009 Microsoft Corporation.  All rights reserved.
+
+C:\Users\Noise>cd Desktop
+
+C:\Users\Noise\Desktop>javac Test.java
+
+C:\Users\Noise\Desktop>java Test
+Strings are fun
+15 is the length
+Strings are fun
+subString is:  String
+strings are fun
+STRINGS ARE FUN
+S
+34
+0
+
+C:\Users\Noise\Desktop>
