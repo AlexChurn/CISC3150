@@ -1,0 +1,15 @@
+Microsoft Windows [Version 6.1.7601]
+Copyright (c) 2009 Microsoft Corporation.  All rights reserved.
+
+C:\Users\Noise>cd CISC3150
+
+C:\Users\Noise\CISC3150>CD HW5
+
+C:\Users\Noise\CISC3150\HW5>javac Version1.java
+
+C:\Users\Noise\CISC3150\HW5>java Version1
+The number of points inside the quadrant of the cirle: 1.0
+The Pi is: 2.4674011002723395  -> PI
+133488
+
+C:\Users\Noise\CISC3150\HW5>

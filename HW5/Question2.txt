@@ -1,0 +1,19 @@
+Question 2: 
+
+a. E. overloading.
+
+b. G. polymorphism. toString() -> overwriting.
+
+c. Error at compile time, no call() in Object class. 
+ 
+d. toString from Object class will print the hash thingy @....
+
+e. C. polymorphism. 
+
+f. H. overloading. 
+
+g. Error, no function call(int x) in Cat or Pet or Object classes. 
+
+h. B. polymorphism.
+
+i. Error, can go only up the ladder up to Object class, not down. 

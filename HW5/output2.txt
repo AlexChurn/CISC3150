@@ -1,0 +1,14 @@
+Microsoft Windows [Version 6.1.7601]
+Copyright (c) 2009 Microsoft Corporation.  All rights reserved.
+
+C:\Users\Noise>cd Desktop
+
+C:\Users\Noise\Desktop>javac Version2.java
+
+C:\Users\Noise\Desktop>java Version2
+difference: 1.0              4000000000
+2.4674011002723395  -> PI
+39.29 seconds.
+
+
+C:\Users\Noise\Desktop>
