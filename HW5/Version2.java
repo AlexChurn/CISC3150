@@ -27,7 +27,7 @@ public class Version2 {
 		
 		for(long i = max-1; i >= 0; i--) {
 			
-			x = (radius + circle_x)- (circle_x + i/((double)(i+i)));          
+			x = (radius + circle_x)- (circle_x + i/((double)(i+i+2)));          
 			y = (radius + circle_y)- (circle_y - i/((double)(i+2)));
 		
 			cmpare = ((x - circle_x)*(x - circle_x)+(y - circle_y)*(y - circle_y));
@@ -42,14 +42,3 @@ public class Version2 {
 				in_crl--;
 					
 			}	
-		
-		double result =((double) in_crl/max);
-		System.out.println("difference: "+result+"              "+in_crl);
-		System.out.println(result *((Math.PI*Math.PI)/4)+"  -> PI");
-		
-		System.out.println(((double)(System.currentTimeMillis()-before))/1000+" seconds.");
-		
-	}
-	
-	
-}
