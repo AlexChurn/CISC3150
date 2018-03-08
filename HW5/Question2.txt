@@ -1,19 +1,19 @@
 Question 2: 
 
-a. E. overloading.
+a. "Woof, woof, woof! Overloading.
 
-b. G. polymorphism. toString() -> overwriting.
+b. I'm a cat, go away! Polymorphism. toString() -> overwriting.
 
 c. Error at compile time, no call() in Object class. 
  
 d. toString from Object class will print the hash thingy @....
 
-e. C. polymorphism. 
+e. woof! Polymorphism. 
 
-f. H. overloading. 
+f. Come here, kitty? ... Don't waste my time. Overloading. 
 
 g. Error, no function call(int x) in Cat or Pet or Object classes. 
 
-h. B. polymorphism.
+h. four. Polymorphism.
 
 i. Error, can go only up the ladder up to Object class, not down. 
