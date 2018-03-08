@@ -3,7 +3,7 @@ import java.util.Scanner;
 import javafx.geometry.Point2D;
 import javafx.scene.shape.Circle;
 
-public class Version2 {
+public class Square {
 	public static void main (String[] args) {
 		long before = System.currentTimeMillis();
 		double radius = 0;
@@ -42,3 +42,14 @@ public class Version2 {
 				in_crl--;
 					
 			}	
+		
+		double result =((double) in_crl/max);
+		System.out.println("difference: "+result+"              "+in_crl);
+		System.out.println(result *((Math.PI*Math.PI)/4)+"  -> PI");
+		
+		System.out.println(((double)(System.currentTimeMillis()-before))/1000+" seconds.");
+		
+	}
+	
+	
+}	
