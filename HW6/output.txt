@@ -1,0 +1,20 @@
+Microsoft Windows [Version 6.1.7601]
+Copyright (c) 2009 Microsoft Corporation.  All rights reserved.
+
+C:\Users\Noise>cd CISC3150
+
+C:\Users\Noise\CISC3150>cd HW6
+
+C:\Users\Noise\CISC3150\HW6>javac NQueens.java
+
+C:\Users\Noise\CISC3150\HW6>java NQueens
+Enter number of rows
+5
+ Q  N  N  N  N
+ N  N  N  Q  N
+ N  Q  N  N  N
+ N  N  N  N  Q
+ N  N  Q  N  N
+
+
+C:\Users\Noise\CISC3150\HW6>
