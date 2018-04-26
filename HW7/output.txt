@@ -1,0 +1,30 @@
+Microsoft Windows [Version 6.1.7601]
+Copyright (c) 2009 Microsoft Corporation.  All rights reserved.
+
+C:\Users\Nikishin>cd Desktop
+
+C:\Users\Nikishin\Desktop>jacac Calculator.java
+'jacac' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Nikishin\Desktop>javac Calculator.java
+
+C:\Users\Nikishin\Desktop>java Calculator 5 + 5.0
+The result is 10.0
+
+C:\Users\Nikishin\Desktop>java Calculator ( 9 + 3 ) / 2
+The result is 6
+
+C:\Users\Nikishin\Desktop>java Calculator - 2
+An operand missing
+
+C:\Users\Nikishin\Desktop>java Calculator 2 2
+Missing an operator
+
+C:\Users\Nikishin\Desktop>java Calculator A
+Invalid operand
+
+C:\Users\Nikishin\Desktop>java Calculator x
+An operand missing
+
+C:\Users\Nikishin\Desktop>
