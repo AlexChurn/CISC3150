@@ -1,0 +1,28 @@
+Microsoft Windows [Version 6.1.7601]
+Copyright (c) 2009 Microsoft Corporation.  All rights reserved.
+
+C:\Users\Noise>cd Desktop
+
+C:\Users\Noise\Desktop>cd CISC3150HW1
+
+C:\Users\Noise\Desktop\CISC3150HW1>cd HW2
+
+C:\Users\Noise\Desktop\CISC3150HW1\HW2>java Pyramid
+Enter the height for the pyramid:
+4
+               1
+           1   2   1
+       2   1   3   1   2
+   3   2   1   4   1   2   3
+
+C:\Users\Noise\Desktop\CISC3150HW1\HW2>java Pyramid
+Enter the height for the pyramid:
+6
+                                   1
+                             1     2     1
+                       2     1     3     1     2
+                 3     2     1     4     1     2     3
+           4     3     2     1     5     1     2     3     4
+     5     4     3     2     1     6     1     2     3     4     5
+
+C:\Users\Noise\Desktop\CISC3150HW1\HW2>
