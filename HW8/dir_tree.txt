@@ -1,0 +1,86 @@
+CISC3150
++--HW1
+¦  +--Q1
+¦  ¦  +--Q1stat.txt
+¦  +--Q2
+¦  ¦  +--.project
+¦  ¦  +--Area.class
+¦  ¦  +--Area.java
+¦  ¦  +--output2.txt
+¦  ¦  +--Radius.class
+¦  ¦  +--Radius.java
+¦  +--Q3
+¦  ¦  +--.classpath
+¦  ¦  +--.project
+¦  ¦  +--output3.txt
+¦  ¦  +--RdmNmbrs.class
+¦  ¦  +--RdmNmbrs.java
+¦  +--Q4
+¦  ¦  +--.classpath
+¦  ¦  +--.project
+¦  ¦  +--Cline.class
+¦  ¦  +--Cline.java
+¦  ¦  +--feedfile.txt
+¦  ¦  +--output4.txt
+¦  +--Q5
+¦  ¦  +--.classpath
+¦  ¦  +--.project
+¦  ¦  +--output5.txt
+¦  ¦  +--Triangle.class
+¦  ¦  +--Triangle.java
+¦  +--Q6
+¦  ¦  +--.classpath
+¦  ¦  +--.gitignore
+¦  ¦  +--.project
+¦  ¦  +--Circles.class
+¦  ¦  +--Circles.java
+¦  ¦  +--output6.txt
++--HW2
+¦  +--Q1
+¦  ¦  +--.classpath
+¦  ¦  +--.project
+¦  ¦  +--output1.txt
+¦  +--Q2
+¦  ¦  +--.classpath
+¦  ¦  +--.project
+¦  ¦  +--output2.txt
+¦  +--Q3
+¦  ¦  +--.classpath
+¦  ¦  +--.project
+¦  ¦  +--output3.txt
+¦  +--Q5
+¦  ¦  +--.classpath
+¦  ¦  +--.project
+¦  ¦  +--output5.txt
+¦  +--Q6
+¦  ¦  +--HW2Q6.txt
++--HW3
+¦  +--MyString.class
+¦  +--MyString.java
+¦  +--output.txt
+¦  +--Test.class
+¦  +--Test.java
++--HW4
+¦  +--Arrays.class
+¦  +--Arrays.java
+¦  +--output.txt
++--HW5
+¦  +--output1.txt
+¦  +--output2.txt
+¦  +--Question1.txt
+¦  +--Question2.txt
+¦  +--Version1.java
+¦  +--Version2.java
++--HW6
+¦  +--NQueen.class
+¦  +--NQueens.class
+¦  +--NQueens.java
+¦  +--output.txt
++--HW7
+¦  +--Calculator.class
+¦  +--Calculator.java.java
+¦  +--output.txt
++--HW8
+   +--dir_tree.txt
+   +--Files.class
+   +--Files.java
