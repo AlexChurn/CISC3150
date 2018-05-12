@@ -1,0 +1,34 @@
+Microsoft Windows [Version 6.1.7601]
+Copyright (c) 2009 Microsoft Corporation.  All rights reserved.
+
+C:\Users\Nikishin>cd Desktop
+
+C:\Users\Nikishin\Desktop>javac Alpha.java
+
+C:\Users\Nikishin\Desktop>java Alpha
+Thread 1 is printing A
+Thread 2 is printing B
+Thread 3 is printing C
+Thread 4 is printing D
+Thread 1 is printing E
+Thread 2 is printing F
+Thread 3 is printing G
+Thread 4 is printing H
+Thread 1 is printing I
+Thread 2 is printing J
+Thread 3 is printing K
+Thread 4 is printing L
+Thread 1 is printing M
+Thread 2 is printing N
+Thread 3 is printing O
+Thread 4 is printing P
+Thread 1 is printing Q
+Thread 2 is printing R
+Thread 3 is printing S
+Thread 4 is printing T
+Thread 1 is printing U
+Thread 2 is printing V
+Thread 3 is printing W
+Thread 4 is printing X
+Thread 1 is printing Y
+Thread 2 is printing Z
